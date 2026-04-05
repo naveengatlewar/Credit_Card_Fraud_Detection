@@ -1,5 +1,7 @@
 # 🚀 Real-Time Financial Fraud Detection Pipeline
 
+![Project Demo](fraudDetection.gif)
+
 ## 📌 Project Overview
 In the financial sector, detecting fraudulent transactions using end-of-day batch processing is no longer sufficient; anomalies must be caught in milliseconds. 
 
